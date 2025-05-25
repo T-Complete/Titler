@@ -1,0 +1,24 @@
+{
+  "input_dir": "./input_images",
+  "output_dir": "./output_captions",
+  "model_path": "E:\\ANNprogram\\Titler\\checkpoints\\best_model_20250525_000003.pth",
+  "tokenizer_path": "E:\\ANNprogram\\Titler\\model",
+  "model_params": {
+    "latent_dim": 512,
+    "nhead": 8,
+    "num_layers": 6,
+    "dim_feedforward": 2048,
+    "max_seq_length": 128
+  },
+  "image_preprocessing": {
+    "resize": [ 224, 224 ],
+    "mean": [ 0.485, 0.456, 0.406 ],
+    "std": [ 0.229, 0.224, 0.225 ]
+  },
+  "generation": {
+    "max_length": 30,
+    "beam_size": 5,
+    "temperature": 1.0
+  },
+  "device": "cuda"
+}
