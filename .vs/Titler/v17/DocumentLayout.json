@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ANNprogram\\Titler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|E:\\ANNprogram\\Titler\\new.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|solutionrelative:new.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\ANNprogram\\Titler\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|E:\\ANNprogram\\Titler\\train.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|solutionrelative:train.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|E:\\ANNprogram\\Titler\\apply.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|solutionrelative:apply.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|E:\\ANNprogram\\Titler\\model.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8578B4B6-AC5E-40CA-80A7-125B2E37CD6B}|Titler.pyproj|solutionrelative:model.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.json",
+              "DocumentMoniker": "E:\\ANNprogram\\Titler\\config.json",
+              "RelativeDocumentMoniker": "config.json",
+              "ToolTip": "E:\\ANNprogram\\Titler\\config.json",
+              "RelativeToolTip": "config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T10:44:02.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "new.py",
+              "DocumentMoniker": "E:\\ANNprogram\\Titler\\new.py",
+              "RelativeDocumentMoniker": "new.py",
+              "ToolTip": "E:\\ANNprogram\\Titler\\new.py",
+              "RelativeToolTip": "new.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-24T08:47:13.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "apply.py",
+              "DocumentMoniker": "E:\\ANNprogram\\Titler\\apply.py",
+              "RelativeDocumentMoniker": "apply.py",
+              "ToolTip": "E:\\ANNprogram\\Titler\\apply.py",
+              "RelativeToolTip": "apply.py",
+              "ViewState": "AgIAAM8AAAAAAAAAAAAAAOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-24T10:34:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "train.py",
+              "DocumentMoniker": "E:\\ANNprogram\\Titler\\train.py",
+              "RelativeDocumentMoniker": "train.py",
+              "ToolTip": "E:\\ANNprogram\\Titler\\train.py",
+              "RelativeToolTip": "train.py",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-24T10:08:04.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "model.py",
+              "DocumentMoniker": "E:\\ANNprogram\\Titler\\model.py",
+              "RelativeDocumentMoniker": "model.py",
+              "ToolTip": "E:\\ANNprogram\\Titler\\model.py",
+              "RelativeToolTip": "model.py",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAJQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-24T08:10:17.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
